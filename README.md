@@ -32,12 +32,7 @@
           
   <br>       
   <br>
-  <br>
-
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=leofuzita&bg_color=020533&color=00BFFF&line=00BFFF&point=00FA9A&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-
-          
+  <br>    
           
 </div>
 
